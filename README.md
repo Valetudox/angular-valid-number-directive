@@ -1,1 +1,1 @@
-# angular-valid-number-directive 
+# angular-valid-number-directive [ ![Codeship Status for Valetudox/angular-valid-number-directive](https://codeship.com/projects/8df172e0-f1df-0132-40e8-2a1571960c76/status?branch=master)](https://codeship.com/projects/85033)

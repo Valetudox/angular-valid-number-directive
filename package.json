@@ -4,8 +4,17 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "karma start"
   },
   "author": "Viktor Somodi <viktor.somodi@emarsys.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "karma": "0.12.36",
+    "karma-browserify": "4.2.1",
+    "karma-mocha": "0.1.10",
+    "karma-phantomjs-launcher": "0.2.0",
+    "karma-sinon-chai": "1.0.0",
+    "mocha": "2.2.5",
+    "phantomjs": "1.9.17"
+  }
 }
